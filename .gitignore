@@ -1,0 +1,19 @@
+# Ignore target directory
+/target/
+
+# Ignore build artifacts
+Cargo.lock
+Cargo.toml.orig
+
+# Ignore editor-specific files
+.vscode/
+
+# Ignore generated documentation
+/doc/
+
+# Ignore compiled binaries
+*.rs.bk
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
