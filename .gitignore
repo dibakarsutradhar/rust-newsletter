@@ -17,3 +17,6 @@ Cargo.toml.orig
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+
+.env
+configuration.yaml
